@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/nima/Projects/nima/code-challenge/jugtours/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/nima/Projects/nima/code-challenge/jugtours/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/nima/Projects/nima/code-challenge/jugtours/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/nima/Projects/nima/code-challenge/jugtours/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/nima/Projects/nima/code-challenge/jugtours/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/nima/Projects/nima/code-challenge/jugtours/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/nima/Projects/nima/code-challenge/jugtours/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/nima/Projects/nima/code-challenge/jugtours/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/nima/Projects/nima/code-challenge/jugtours/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
